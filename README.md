@@ -43,7 +43,7 @@ Throughout the course, I explored over **20+ chart types and visualization techn
 ---
 
 ## ⚙️ Key Functions & Features Applied
-- `OFFSET`, and `MATCH` for automation  
+- `OFFSET`, `MATCH`, and `INDEX` for automation  
 - Data validation for dynamic chart control  
 - Form controls (scroll bars, checkboxes, option buttons)  
 - Named ranges for chart references  
