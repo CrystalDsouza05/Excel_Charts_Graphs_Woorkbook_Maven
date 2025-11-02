@@ -43,7 +43,7 @@ Throughout the course, I explored over **20+ chart types and visualization techn
 ---
 
 ## ⚙️ Key Functions & Features Applied
-- `OFFSET`, `MATCH`, and `INDEX` for automation  
+- `OFFSET`, and `MATCH` for automation  
 - Data validation for dynamic chart control  
 - Form controls (scroll bars, checkboxes, option buttons)  
 - Named ranges for chart references  
@@ -60,10 +60,8 @@ Throughout the course, I explored over **20+ chart types and visualization techn
 ---
 
 ## 🔗 Repository Content
-- `/Charts/` – Sample Excel files for each chart type  
-- `/Dynamic_Visuals/` – Automated and interactive examples  
-- `/Practice/` – Hands-on exercises and practice datasets  
-
+- `/Excel Charts & Graphs - Maven/` – Sample Excel file with multiple sheets for each chart type  
+- `/Excel Charts & Graphs - pdf/` – Complete Pdf of the charts
 ---
 
 ## 🙌 Acknowledgment
@@ -71,10 +69,20 @@ A huge thanks to **[Maven Analytics](https://mavenanalytics.io/)** for their **O
 
 ---
 
-## 🧠 Next Steps
-I’ll continue adding new examples and experiment with combining charts, using VBA for automation, and integrating Excel visuals with Power BI.
+## Course Cetificate, Badge and [Credentials](https://certificates.mavenanalytics.io/19b77d35-cacb-4676-a5ef-025e294ee4f3?record_view=true)
 
----
 
-### 🗂️ Repository Link
-📍 [Your GitHub Repository Link Here]
+Certificate: 
+
+<img width="983" height="760" alt="image" src="https://github.com/user-attachments/assets/b4ecc0d0-9806-45d4-8ceb-ab0755a968e0" />
+
+Badge:
+
+<img width="400" height="400" alt="3924fcdc-7676-4c56-b90f-a63d0fd3136c" src="https://github.com/user-attachments/assets/847ea399-88d8-4af2-8620-3cf863c73d97" />
+
+
+
+
+
+
+
