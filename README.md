@@ -80,6 +80,10 @@ Badge:
 
 <img width="400" height="400" alt="3924fcdc-7676-4c56-b90f-a63d0fd3136c" src="https://github.com/user-attachments/assets/847ea399-88d8-4af2-8620-3cf863c73d97" />
 
+## Dashboard Image - Excel Charts
+
+<img width="762" height="914" alt="image" src="https://github.com/user-attachments/assets/8bfc6eec-0bc1-4db0-84fa-1406d71d79ad" />
+<img width="759" height="881" alt="image" src="https://github.com/user-attachments/assets/55cf0bef-b26c-4f4f-96eb-08b156a9dcb1" />
 
 
 
